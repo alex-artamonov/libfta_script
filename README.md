@@ -8,7 +8,7 @@ Alternatively run without the executable permission like: 'python3 ./print_to_do
 by Alex Artamonov
 
 Sample output:
-
+'''
 All functions to do 23:
 isalpha, isdigit, isalnum, isascii, isprint, strlen, memset, bzero, memcpy, memmove, strlcpy, strlcat, toupper, tolower, strchr, strrchr, strncmp, memchr, memcmp, strnstr, atoi, calloc, strdup
 ==================================================
@@ -20,3 +20,4 @@ ft_atoi.c, ft_isalnum.c, ft_isalpha.c, ft_isascii.c, ft_isdigit.c, ft_isprint.c,
 ==================================================
 Check suspicios files:
 .git, .gitignore, .Makefile.swp, a.out, libft.h, libft.o, Makefile, print_to_do.py, tests.c, to_do_functions.txt
+'''
