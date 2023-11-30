@@ -1,6 +1,6 @@
 libfta_script
 To check progress and files on Libfta library project for '42 cursus'
-Lists 1) the mandotory functions, 2) what functions are left to be done. 3) "suspicios" files that probablly should not be there.
+Lists 1) the mandotory functions, 2) what functions (c-files) are left to be done. 3) "suspicios" files that probablly should not be there.
 ##How to use:
 Clone/download and the executable permission to the 'print_to_do.py' and then run 'print_to_do.py'. 
 Alternatively run without the executable permission like: 'python3 ./print_to_do.py'
